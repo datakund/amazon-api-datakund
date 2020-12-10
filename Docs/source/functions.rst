@@ -7,3 +7,4 @@ Functions
    :maxdepth: 2
 
    login
+   logout
