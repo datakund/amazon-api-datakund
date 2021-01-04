@@ -22,3 +22,4 @@ Functions
    fill_cvv
    click_next_reviews
    product_info
+   login_cookie
