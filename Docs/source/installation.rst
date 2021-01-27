@@ -14,7 +14,6 @@ Creating Object
 **************************************************
 .. code-block:: python
 	
-	obj=datakund()
-	amazon=obj.amazon()
+	amazon=datakund.amazon()
 	
 It will return the object which you can further use to call amazon functions and opens an automated browser
