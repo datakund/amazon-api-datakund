@@ -11,7 +11,7 @@ It logins to the amazon through cookies passed in ``cookies``. By default it log
 
 Here is the code:-
 
-.. py:function:: amazon.login_cookie(login_url="login_url",cookies="cookies")
+.. py:function:: amazon.login_cookie(login_url="sign in url",cookies=[{"domain": ".amazon.in","expirationDate": 1644991052.296449,"hostOnly": false,"httpOnly": false,},..])
 
    
    :param str login_url: e.g www.amazon.in
