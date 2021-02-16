@@ -11,7 +11,7 @@ It goes to homepage and then log out from amazon. By default log outs from amazo
 
 Here is the code:-
 
-.. py:function:: amazon.logout(home_url="home_url")
+.. py:function:: amazon.logout(home_url="https://www.amazon.in/")
 
    
    :param str home_url: Home Url
