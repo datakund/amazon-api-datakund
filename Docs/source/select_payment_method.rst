@@ -11,7 +11,7 @@ It chooses the payment method passed in ``payment_method``.
 
 Here is the code:-
 
-.. py:function:: amazon.select_payment_method(credit_card="credit_card")
+.. py:function:: amazon.select_payment_method(credit_card="Net Banking")
 
    
    :param str credit_card: Credit Card
