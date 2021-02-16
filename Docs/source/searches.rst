@@ -11,7 +11,7 @@ It searches the keyword passed in ``keyword``.
 
 Here is the code:-
 
-.. py:function:: amazon.search(keyword="keyword")
+.. py:function:: amazon.search(keyword="shoes")
 
    
    :param str keyword: keyword which needs to be searched on amazon
