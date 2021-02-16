@@ -11,7 +11,7 @@ It logins to the amazon through credentials passed in ``email`` and ``password``
 
 Here is the code:-
 
-.. py:function:: amazon.login(email="datakund@gmail.com",login_url="amazon sign in url",password="pwd123")
+.. py:function:: amazon.login(email="datakund@gmail.com",login_url="https://www.amazon.com/gp/sign-in.html",password="pwd123")
 
    
    :param str email: amazon email
