@@ -11,7 +11,7 @@ It chooses the bank passed in ``bank``.
 
 Here is the code:-
 
-.. py:function:: amazon.select_bank(bank="bank")
+.. py:function:: amazon.select_bank(bank="HDFC Bank")
 
    
    :param str bank: bank name e.g. HDFC Bank
