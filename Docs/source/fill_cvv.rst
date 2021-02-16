@@ -11,7 +11,7 @@ It fills CVV passed in ``cvv``.
 
 Here is the code:-
 
-.. py:function:: amazon.fill_cvv(cvv="cvv")
+.. py:function:: amazon.fill_cvv(cvv="234")
 
    
    :param str cvv: Debit/Credit card cvv
