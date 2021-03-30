@@ -11,9 +11,9 @@ It chooses the payment method passed in ``payment_method``.
 
 Here is the code:-
 
-.. py:function:: amazon.select_payment_method(credit_card="Net Banking")
+.. py:function:: amazon.select_payment_method(payment_method="Net Banking")
 
    
-   :param str credit_card: Credit Card
+   :param str payment_method: payment method
    :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict
