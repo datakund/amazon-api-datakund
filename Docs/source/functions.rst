@@ -1,7 +1,7 @@
 Functions
 **************************************************
 
-``datakund`` provides following functions for amazon:-
+``bot-studio`` provides following functions for amazon:-
 
 .. toctree::
    :maxdepth: 2
